@@ -12,13 +12,13 @@ Este é o clássico jogo da cobrinha (Snake) desenvolvido por mim.
 
 Aqui estão algumas imagens do jogo funcionando:
 
-![Jogo Snake inicial](images/Snake-1.png)
+![Jogo Snake inicial](Images/Snake-1.png)
 
-![Snake com pontuação](images/Snake-2.png)
+![Snake com pontuação](Images/Snake-2.png)
 
-![Snake com pontuação](images/Snake-3.png)
+![Snake com pontuação](Images/Snake-3.png)
 
-![Snake com final](images/Snake-4.png)
+![Snake com final](Images/Snake-4.png)
 
 ## Tecnologias usadas
 
