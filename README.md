@@ -1,31 +1,44 @@
-# Jogo Snake
+<p align="center">
+  <img src="Images/banner.png" alt="Banner do Jogo Snake" style="width:100%; border-radius: 12px;" />
+</p>
 
-Este é o clássico jogo da cobrinha (Snake) desenvolvido por mim.
+<h1 align="center">🌌 Jogo Snake no Espaço 🌌</h1>
 
-## Como jogar
+<p align="center">Uma versão cósmica do clássico jogo da cobrinha, feita em C# com WPF e Console!</p>
 
-- Use as setas do teclado para controlar a cobra.
-- Coma a comida para crescer.
-- Evite bater nas paredes e no próprio corpo.
+---
 
-## Prints do jogo
+## 🚀 Como jogar
 
-Aqui estão algumas imagens do jogo funcionando:
+- 🕹️ Use as setas do teclado para controlar a cobra.
+- 🍎 Coma a comida para crescer.
+- 💥 Evite colidir com as paredes e consigo mesmo.
 
-![Jogo Snake inicial](Images/Snake-1.png)
+---
 
-![Snake com pontuação](Images/Snake-2.png)
+## 🌟 Prints do Jogo
 
-![Snake com pontuação](Images/Snake-3.png)
+<p align="center">
+  <img src="Images/Snake-1.png" alt="Tela inicial do jogo" width="800"/>
+   <br/>
+  <img src="Images/Snake-2.png" alt="Jogo em andamento" width="800"/>
+  <br/>
+  <img src="Images/Snake-3.png" alt="Pontuação alta" width="800"/>
+   <br/>
+  <img src="Images/Snake-4.png" alt="Tela final do jogo" width="800"/>
+   <br/>
+</p>
 
-![Snake com final](Images/Snake-4.png)
+---
 
-## Tecnologias usadas
+## 🧪 Tecnologias usadas
 
-- Linguagem: C#
-- Framework/Biblioteca: Console WPF
+- 🧠 **Linguagem:** C#
+- 💻 **Interface:** Console e WPF
 
-## Como rodar o jogo
+---
+
+## 🛰️ Como rodar o jogo
 
 1. Clone o repositório:
    ```bash
