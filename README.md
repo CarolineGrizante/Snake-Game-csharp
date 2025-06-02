@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Images/banner.png" alt="Banner do Jogo Snake" style="width:100%; border-radius: 12px;" />
-</p>
 
 <h1 align="center">🌌 Jogo Snake no Espaço 🌌</h1>
 
