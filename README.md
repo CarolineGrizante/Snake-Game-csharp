@@ -24,6 +24,8 @@
    <br/>
   <img src="Images/Snake-4.png" alt="Tela final do jogo" width="800"/>
    <br/>
+  <img src="Images/Snake-5.gif" alt="Jogo" width="800"/>
+   <br/>
 </p>
 
 ---
