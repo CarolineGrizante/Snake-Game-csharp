@@ -25,8 +25,9 @@
   <img src="Images/Snake-4.png" alt="Tela final do jogo" width="800"/>
    <br/>
 </p>
-
-![Jogabilidade](Images/Snake-5.gif)
+<p align="center">
+  <img src="Images/Snake-5.gif" alt="Jogabilidade" width="800"/>
+</p>
 ---
 
 ## 🧪 Tecnologias usadas
