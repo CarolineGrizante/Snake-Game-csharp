@@ -28,6 +28,7 @@
 <p align="center">
   <img src="Images/Snake-5.gif" alt="Jogabilidade" width="800"/>
 </p>
+
 ---
 
 ## 🧪 Tecnologias usadas
